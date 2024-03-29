@@ -2,8 +2,9 @@ const config = {
   provider: 'capswan',
   repospacePath: __dirname,
   repositories: [
-    { capswan: 'cli-ftr' },
-    { capswan: 'cli-repogen' },
+    { capswan: 'oss-gitspace' },
+    { capswan: 'oss-charts' },
+    { capswan: 'oss-charts-lang' },
 
   ],
 };

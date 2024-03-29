@@ -2,8 +2,8 @@
 .repositories
 
 # repogen symlinks
-cli-ftr
-cli-repogen
+cli-*
+oss-*
 
 # nodejs and macOS
 node_modules
